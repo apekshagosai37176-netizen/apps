@@ -1,0 +1,6 @@
+{
+  "summary":  "Plan to implement a subtle, synthesized breath-in and breath-out audio cue using Web Audio API filtered noise in BreathingCoach with a dedicated user comfort toggle switch.",
+  "updatedAt":  "2026-10-29T05:28:32.784918951Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

@@ -1,0 +1,6 @@
+{
+  "name": "BreatheWell – Virtual Breathing Coach",
+  "description": "Virtual breathing coach for adults with asthma and respiratory conditions to practice clinician-guided breathing exercises, track symptoms, and engage in tele-rehabilitation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
